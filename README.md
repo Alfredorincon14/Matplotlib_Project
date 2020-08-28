@@ -1,4 +1,4 @@
-#Matplotlib_Project
+##Matplotlib_Project
 
 After analyzing the data series we can observe the following trends:
 
